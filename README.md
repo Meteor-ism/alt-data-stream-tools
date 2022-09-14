@@ -1,2 +1,2 @@
-# alt-data-stream-tools
-Tools for alternate data streams
+# Alternate Data Stream Tools
+These tools will help you with alternate data streams.
